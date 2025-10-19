@@ -2,6 +2,10 @@
 
 **PocketGuardian** is an Android prototype anti-theft app that helps users protect themselves and their devices. It provides a panic alarm, location sharing, Respond to SMS commands like "WHEREAREYOU" tracking features.
 
+## Screenshot
+
+![PocketGuardian Screenshot](screenshot.png)
+
 ## Features
 
 - **Panic Alarm:** Activate a loud, looping alarm with a single button.
